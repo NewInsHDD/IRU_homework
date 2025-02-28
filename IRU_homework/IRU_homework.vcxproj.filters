@@ -21,5 +21,7 @@
     <ClCompile Include="feature_A.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-  </ItemGroup>
+    <ClCompile Include="feature_B.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
 </Project>
